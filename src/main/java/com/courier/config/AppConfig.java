@@ -1,5 +1,5 @@
 //AppConfig.java (Confguration class)
-package com.nt.config;
+package com.courier.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

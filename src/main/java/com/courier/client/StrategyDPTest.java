@@ -1,11 +1,11 @@
 //StrategyDPTest.java (Client App)
-package com.nt.client;
+package com.courier.client;
 
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import com.nt.config.AppConfig;
-import com.nt.sbeans.Flipkart;
+import com.courier.config.AppConfig;
+import com.courier.sbeans.Flipkart;
 
 public class StrategyDPTest {
 

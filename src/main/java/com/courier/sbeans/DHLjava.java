@@ -1,5 +1,5 @@
 //DHL.java (depedent class3)
-package com.nt.sbeans;
+package com.courier.sbeans;
 
 import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Component;

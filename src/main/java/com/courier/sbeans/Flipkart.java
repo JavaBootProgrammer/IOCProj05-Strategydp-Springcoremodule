@@ -1,5 +1,5 @@
 //Flipkart.java (target class)
-package com.nt.sbeans;
+package com.courier.sbeans;
 
 import java.util.Arrays;
 import java.util.Random;
